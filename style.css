@@ -1,0 +1,24 @@
+h1 {
+	font-family: 'Roboto Condensed', Roboto, sans-serif;
+}
+
+a {
+	font-family: 'Roboto Condensed', Roboto, sans-serif;
+	color: Grey;
+}
+
+p.block {
+	font-family: 'Roboto Condensed', Roboto, sans-serif;
+	border: 2px solid Grey;
+	padding: 20px;
+	width: 200px;
+	box-shadow: 2.5px 5px #888888;
+}
+
+p.entry {
+	font-family: 'Roboto Condensed', Roboto, sans-serif;
+	border: 2px solid Grey;
+	padding: 20px;
+	width: 350px;
+	box-shadow: 2.5px 5px #888888;
+}
