@@ -14,6 +14,11 @@
 
 		<center>
 			<p class="entry">
+				<b>3/18/19 - The Mythical UNIX "booker"</b>
+				<br>
+				Most standard UNIX applications have been rewritten, and moderenized in that past ten or so years. The one program that hasn't, at least in my oppinon is the pager. You may not even know what a pager is, most *nix systems set less or more as the default <b>$PAGER</b>. You probably have used a pager, though. <b>man</b> pipes it's output into <b>$PAGER</b>. I really like the idea of a pager. An interactive program that allows you to quickly maneuver through a document without the risk of editing the document. This got me thinking, what if I took the idea of a pager, and optimized for reading books, or reading text streams like books. This is how I got the idea for the "booker", a pager like program that is optimized for reading. This "booker" would allow you to change margin size, character scrolling etc. It also would turn text into a "book" by segmenting each screenfull of text as a page, or by removing newline entirely and creating a "book" out of that. Allowing the user to highlight the current word, or line they are on would also make the program more favorable twoards reading.
+			</p>
+			<p class="entry">
 				<b>3/15/19 - Wrting a Python Curses Program</b>
 				<br>
 				Python is a great option is you want to create a simple, or complex tui program. The most notable python tui I've written so far has been <a href="https://github.com/geremachek/pluto">pluto</a>. When I started writing pluto I had virtually no curses experience. Because of this, I wrote very sloppy and bug-prone code. Whenever I tried to add a new feature, I would have to spend an hour or so debugging to get the feature working properly. So I decided to rewrite from scratch. This really helped me actually <i>learn</i> curses, and create a usable program.
