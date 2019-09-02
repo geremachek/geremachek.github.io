@@ -1,2 +1,0 @@
-# geremachek.github.io
-website
