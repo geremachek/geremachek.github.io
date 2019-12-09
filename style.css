@@ -1,5 +1,6 @@
-h1 {
+h2 {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
+	font-style: italic
 }
 
 a {
@@ -13,6 +14,7 @@ p.box {
 	padding: 20px;
 	width: 200px;
 	box-shadow: 2.5px 5px #888888;
+	background-color: #d1cfb3
 }
 
 p.entry {
@@ -21,4 +23,5 @@ p.entry {
 	padding: 20px;
 	width: 500px;
 	box-shadow: 2.5px 5px #888888;
+	background-color: #d1cfb3
 }
