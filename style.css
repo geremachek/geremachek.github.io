@@ -5,7 +5,7 @@ h2 {
 
 a {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
-	color: Grey;
+	color: black;
 }
 
 p.box {
@@ -14,7 +14,7 @@ p.box {
 	padding: 20px;
 	width: 200px;
 	box-shadow: 2.5px 5px #888888;
-	background-color: #dfddc1;
+	background-color: #f7f7f7;
 }
 
 p.entry {
@@ -23,5 +23,5 @@ p.entry {
 	padding: 20px;
 	width: 500px;
 	box-shadow: 2.5px 5px #888888;
-	background-color: #dfddc1;
+	background-color: #f7f7f7;
 }
