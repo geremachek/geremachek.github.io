@@ -14,7 +14,7 @@ p.box {
 	padding: 20px;
 	width: 200px;
 	box-shadow: 2.5px 5px #888888;
-	background-color: #ffffff;
+	background-color: #f2f2f2;
 }
 
 p.entry {
@@ -23,9 +23,10 @@ p.entry {
 	padding: 20px;
 	width: 500px;
 	box-shadow: 2.5px 5px #888888;
-	background-color: #ffffff;
+	background-color: #f2f2f2;
 }
 
 body {
-	background-color: #ebebeb
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMCcgaGVpZ2h0PScxMCc+CiAgPHJlY3Qgd2lkdGg9JzEwJyBoZWlnaHQ9JzEwJyBmaWxsPSd3aGl0ZScgLz4KICA8cmVjdCB4PScwJyB5PScwJyB3aWR0aD0nMScgaGVpZ2h0PScxJyBmaWxsPSdibGFjaycgLz4KPC9zdmc+");
+	background-repeat: repeat;
 }
