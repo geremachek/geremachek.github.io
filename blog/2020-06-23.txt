@@ -1,0 +1,8 @@
+Good afternoon!
+
+I finally got around to revamping my website, and I have to say that I'm quite happy with it. I've once again restarted the blog.
+This time, in order to make it as convenient as possible to make frequent posts, I'm just going to have blog posts be plain text files.
+
+In recent months I've started to learn ancient greek, it's been a fun hobby that keeps me busy. I've really enjoyed it so far...
+I've also started to learn the Haskell programming language, I'm learning it through the "Learn you a Haskell" eBook, and I really am drawn to some of its features.
+Who knows? Maybe it will take Go's place as my favorite programming language.
