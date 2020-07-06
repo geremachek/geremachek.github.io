@@ -1,0 +1,22 @@
+Upcoming projects
+
+Recently I've had quite a few ideas for some programs. I'd like to finish some by the end of the summer, but knowing myself, I doubt I will.
+
+I've started working on a pixel art editor that exports and reads ppm (https://en.wikipedia.org/wiki/Netpbm) files. It really isn't something that will be all that useful,
+just something for me to muck about in when I'm bored. Also, it will be useful when designing sprites fora Argonaut (https://github.com/playargonaut/)
+
+I also plan to write a companion program that reads pbm, pgm, and ppm files and displays them with ANSI color formatting. I think I'm going to write this in
+Haskell for practice.
+
+Because I'm learning ancient greek and I love strange writing systems, I had an idea for a program that would accept input from a user and display it back to them in the 
+writing system  of their choosing. The program would also accept input from stdin, a file, or command-line arguments. The displayed character would chorespond to the key 
+pressed by the user
+
+So that:
+	a -> α
+	b -> β
+	g -> γ
+
+Finally I'd like to create a simple music player that isn't based on anything like mpd. It would take an mp3 file or a directory of mp3s and play them. The user to start/stop
+tracks, move back and forth between tracks, and shuffle. I would build it over my tinyscr library and it would only show the user information on a single line, making sure everything
+is as minimal as possible.

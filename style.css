@@ -27,3 +27,12 @@ p.box {
 	box-shadow: 2.5px 5px #888888;
 	background-color: #f2f2f2;
 }
+
+body {
+	background-color: #FFF8E7;
+}
+
+h1 {
+	font-family: 'Noto Serif KR', serif;
+	#font-size: 60px;
+}
