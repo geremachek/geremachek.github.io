@@ -4,8 +4,6 @@ h2 {
 
 h2.label {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
-	padding-right: 25%;
-	padding-left: 25%;
 }
 
 a {
@@ -15,8 +13,6 @@ a {
 
 p {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
-	padding-right: 25%;
-	padding-left: 25%;
 }
 
 p.box {
@@ -35,4 +31,9 @@ body {
 h1 {
 	font-family: 'Noto Serif KR', serif;
 	#font-size: 60px;
+}
+
+.Tabbed {
+	padding-right: 25%;
+	padding-left: 25%;
 }
