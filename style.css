@@ -1,5 +1,9 @@
 h2 {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
+	font-weight: 1;
+	
+	text-decoration: underline;
+	text-decoration-color: #660000;
 }
 
 h2.label {
@@ -25,12 +29,12 @@ p.box {
 }
 
 body {
-	background-color: #FFF8E7;
+	background-color: #f3efe1;
 }
 
 h1 {
-	font-family: 'Noto Serif KR', serif;
-	#font-size: 60px;
+	font-family: 'GFS Didot', serif;
+	font-weight: 1;
 }
 
 .Tabbed {
