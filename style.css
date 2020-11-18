@@ -1,26 +1,15 @@
 h2 {
-	font-family: 'Roboto Condensed', Roboto, sans-serif;
 	font-weight: 1;
 	
 	text-decoration: underline;
 	text-decoration-color: #660000;
 }
 
-h2.label {
-	font-family: 'Roboto Condensed', Roboto, sans-serif;
-}
-
 a {
-	font-family: 'Roboto Condensed', Roboto, sans-serif;
 	color: dimgrey;
 }
 
-p {
-	font-family: 'Roboto Condensed', Roboto, sans-serif;
-}
-
 p.box {
-	font-family: 'Roboto Condensed', Roboto, sans-serif;
 	border: 2px solid Grey;
 	padding: 20px;
 	width: 200px;
@@ -30,6 +19,7 @@ p.box {
 
 body {
 	background-color: #f3efe1;
+	font-family: 'Roboto Condensed', Roboto, sans-serif;
 }
 
 h1 {
