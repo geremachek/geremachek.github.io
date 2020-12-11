@@ -1,6 +1,6 @@
 The Text Editor
 
-I have always wanted to right my own text editor. I have started numerous times, but then eventually stopped.
+I have always wanted to write my own text editor. I have started numerous times, but then eventually stopped.
 At the beginning of this year, I started again. I got quite far, I implemented a fully featured screen editor, but again, I stopped.
 
 I have again started, but with a different outlook. I have decided to not write a screen editor at all. I have decided to write a an editor that is more similar to that of ed or sam.
