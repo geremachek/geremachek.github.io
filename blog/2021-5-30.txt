@@ -1,0 +1,10 @@
+Merlin!
+
+After a lot of work, I have finally finished the text editor. It has been a long time coming, and I'm glad I was able to see it through.
+It turned out a lot differently than I had originally planned, the best way I could describe it is as a mix between the sam editor, and the forth programming language. Yes, that weird
+There are no docs yet, and I am still considering a visual component of some kind. It is quite useable in its current state though, although it has a very steep learning curve.
+Anyway, there will most likely still be some changes made and some companion programs written, yet still Merlin, in all of its raw beauty and esoteria, is here.
+
+Oh and of course this blog post was written entirely inside of Merlin :)
+
+ᛗ
