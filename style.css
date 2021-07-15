@@ -1,8 +1,8 @@
-u.title {
+.title {
 	font-weight: 1;
 	
 	text-decoration: underline;
-	text-decoration-color: #660000;
+	text-decoration-color: #660000;	
 }
 
 a {
@@ -35,4 +35,9 @@ h1 {
 
 .center {
 	text-align: center
+}
+
+.italbol {
+	font-style: italic;
+	font-weight: bold;
 }
