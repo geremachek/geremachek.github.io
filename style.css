@@ -2,29 +2,21 @@
 	font-weight: 1;
 	
 	text-decoration: underline;
-	text-decoration-color: #660000;	
+	text-decoration-style: double;
+	text-decoration-color: #cfc8b8;
+}
+
+h2 {
+	color: #3f0000
 }
 
 a {
-	color: dimgrey;
-}
-
-p.box {
-	border: 2px solid Grey;
-	padding: 20px;
-	width: 200px;
-	box-shadow: 2.5px 5px #888888;
-	background-color: #f2f2f2;
-	margin: 20px auto;
+	color: #a67b5b;
 }
 
 body {
-	background-color: #f3efe1;
+	background-color: #fff8e7;
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
-}
-
-h1 {
-	font-weight: 10;
 }
 
 .Tabbed {
