@@ -19,6 +19,10 @@ body {
 	font-family: 'Roboto Condensed', Roboto, sans-serif;
 }
 
+img {
+	border: 2px solid brown
+}
+
 .Tabbed {
 	padding-right: 25%;
 	padding-left: 25%;
