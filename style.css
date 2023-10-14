@@ -2,7 +2,6 @@
 	font-weight: 1;
 	
 	text-decoration: underline;
-	text-decoration-style: double;
 	text-decoration-color: #cfc8b8;
 }
 
@@ -16,10 +15,6 @@ a {
 
 body {
 	background-color: #fff8e7;
-}
-
-img {
-	border: 2px solid brown
 }
 
 .Tabbed {
