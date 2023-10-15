@@ -1,0 +1,24 @@
+A Wiki for the Inscriptions of the Ancient World.
+
+In spending the last few years learning and researching ancient languages, I have come upon a very common problem: finding the source of inscriptions.
+Whether they be cited in older books or websites, it can be very difficult to find images of the exact text cited, let alone a transliteration or translation.
+
+Many universities and museums do offer catalogs of artifacts with google-able identification numbers, but often times their online directories are slow and hard to use,
+and more often than not they don't include any details about the contents of the text, just the actual physical object.
+
+A logical solution to this problem, I think, is creating a MediaWiki-powered site that would catalog and tag inscriptions based on type, language, era, region of origin, etc.
+and provide detailed information about what is actually being said in the text.
+
+For language learners such as myself, it would be awesome to be able to search for, let's say, New Kingdom scarab seals from the time of Ramesses II and be able to compare
+sign readings and translations with scholarly ones.
+
+This project, of course, would be a massive undertaking and would require an international effort on the part of museums, universities, and governments, but I think it would
+be worth it to bring a sense of cohesion and modernity into a field (that being the linguistics and philology of ancient languages) that severely lacks it. 
+
+I have even thought of a good name for the project: "Mawat". "Mawat" comes from a vocalization of the Ancient Egyptian word "mwt" which means to die or death, a nod to the
+dead languages revived and assembled into a now living "corpus" or body, an idea I think the Ancient Egyptians would approve of :).
+
+Anyway, it has been a long time since I posted anything here, but I would like to more often given that I have a lot more free time now days and would like to get better at
+translating my brain waves into something semi-productive.
+
+Cheers!
