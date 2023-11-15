@@ -1,0 +1,14 @@
+Fixing Transliterations of Ancient Languages on Wikipedia
+
+I spend an absurd amount of time on Wikipedia, so every once in a while I like to contribute to articles regarding topics I have some knowledge about.
+Some of the most common edits I make are fixing transliteration errors, more recently that of Ancient Egyptian. Because there is no real standard for the transliteration of Ancient Egyptian, it's common
+to see pages that use mixed styles or simply write out phonetic transcriptions of the phrase's Egyptological pronunciation. Luckily, it's an easy fix to change these improper elements into the standard used
+by Wiktionary, which I feel is most appropriate and transparent.
+
+It is also very common to see improperly transliterated Ancient Greek words, most often this is a result of using transliteration styles for *modern* Greek which do not distinguish between η and ι as in
+modern Greek they represent the same sound: [i]. It is also common to see the failure to include proper diacritics, etc.
+
+These errors are probably not very significant, but as someone who cares a lot about ancient languages (how many more times will I use this term in this post?) and writing systems, it irritates me to see things
+done incorrectly.
+
+In the future I'd like to get into doing more extenstive editing, but my writing-confidence is at an all time low, despite my love for academic/informational work.
